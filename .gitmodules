@@ -1,0 +1,3 @@
+[submodule "git-submodules-child"]
+	path = git-submodules-child
+	url = git@github.com:konjoot/git-submodules-child.git
